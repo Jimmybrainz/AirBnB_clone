@@ -1,0 +1,19 @@
+footer {
+	background-color: #00FF00;
+	height: 60px;
+	width: 100px;
+	position:fixed;
+	bottom: 0;
+}
+
+footer div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+}
+
+footer span {
+	color: white;
+	font-weight: bold;
+}
