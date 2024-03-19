@@ -1,0 +1,17 @@
+header {
+	background-color: #FF0000;
+	height: 70px;
+	width: 100px;
+	border-bottom: 1px solid #CCCCCC;
+}
+
+header .logo {
+	background-image: url('/Users/mac/Downloads/icon.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: left center;
+	height: 30px;
+	width: 150px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
